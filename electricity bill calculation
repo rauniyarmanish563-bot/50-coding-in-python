@@ -52,13 +52,13 @@
         "print(\"Total electricity bill is: ₹\", total_bill)"
       ],
       "metadata": {
-        "id": "JkLPrJJ2Qq0j",
-        "outputId": "8fc9f906-b291-492b-fa59-3cd34806593b",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "JkLPrJJ2Qq0j",
+        "outputId": "8fc9f906-b291-492b-fa59-3cd34806593b"
       },
-      "execution_count": 1,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
